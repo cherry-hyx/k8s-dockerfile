@@ -1,2 +1,2 @@
-FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.20.0
+FROM k8s.gcr.io/metrics-server-amd64:v0.3.1
 MAINTAINER CHERRY <hjb.123@163.com>
